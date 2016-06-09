@@ -1,0 +1,22 @@
+{
+  "name": "subscription",
+  "version": "3.0.0",
+  "description": "Simple abstraction for first-class event emitters",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marijnh/subscription.git"
+  },
+  "keywords": [
+    "event",
+    "signal",
+    "listener",
+    "emitter"
+  ],
+  "author": "Marijn Haverbeke <marijnh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marijnh/subscription/issues"
+  },
+  "homepage": "https://github.com/marijnh/subscription#readme"
+}
